@@ -14,3 +14,4 @@ int main()
 	cin.get();
 	return 0;
 }
+//Dryga zmina v gilchi 2 
